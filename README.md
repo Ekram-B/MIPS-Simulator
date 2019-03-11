@@ -1,7 +1,7 @@
 # MIPS-Simulator
 
 This project is a simple simulator for a subset of MIPS instruction set as
-defined in ‘Computer Organization and Design: The hardware/Software Interface” 5th
+defined withinin the textbook ‘Computer Organization and Design: The hardware/Software Interface” 5th
 Edition, Patterson and Hennessy
 
 The simulator should read the instructions one by one and execute them. Execution of
